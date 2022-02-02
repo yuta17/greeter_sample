@@ -1,0 +1,110 @@
+{
+  "contractName": "Greeter",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/hasada/ghq/github.com/yuta17/greeter_sample/contracts/Greeter.sol\":\"Greeter\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/hasada/ghq/github.com/yuta17/greeter_sample/contracts/Greeter.sol\":{\"keccak256\":\"0x46a32a9974d5bb57b278423f65e7504aedae2d22765b179d1afb873dacb656f0\",\"urls\":[\"bzz-raw://ef27dc376f825269fa45bde939a2a5737090c1f16ac89316a8d977b2278abf6e\",\"dweb:/ipfs/Qmdhp5vyxRuDgYw4JpvKQ2m5RAU1kH6WugLbne49MLB3b8\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820b98388408a99d4b6f6386ad10ab8069f46ccb321b949de8fa8e6bd02c4ad759864736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820b98388408a99d4b6f6386ad10ab8069f46ccb321b949de8fa8e6bd02c4ad759864736f6c63430005100032",
+  "sourceMap": "33:19:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;33:19:0;;;;;;;",
+  "deployedSourceMap": "33:19:0:-;;;;;",
+  "source": "pragma solidity >=0.4.0 <0.7.0;\n\ncontract Greeter {}\n",
+  "sourcePath": "/Users/hasada/ghq/github.com/yuta17/greeter_sample/contracts/Greeter.sol",
+  "ast": {
+    "absolutePath": "/Users/hasada/ghq/github.com/yuta17/greeter_sample/contracts/Greeter.sol",
+    "exportedSymbols": {
+      "Greeter": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".0",
+          "<",
+          "0.7",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:31:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Greeter",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "33:19:0"
+      }
+    ],
+    "src": "0:53:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/hasada/ghq/github.com/yuta17/greeter_sample/contracts/Greeter.sol",
+    "exportedSymbols": {
+      "Greeter": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".0",
+          "<",
+          "0.7",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:31:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Greeter",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "33:19:0"
+      }
+    ],
+    "src": "0:53:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.2.0",
+  "updatedAt": "2022-02-02T07:11:34.738Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
